@@ -1,6 +1,3 @@
 # ¿ amireallydaniel ?
 
-### Biggest project ever:
-##### BilepterOS
-
-### NEWS: BilepterOS Zenshard in Development, Information at
+## NEWS: BilepterOS Zenshard in Development, Information at
